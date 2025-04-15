@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Analyzing projects
 - 📫 How to reach me puripalak336@gmail.com
 - ⚡ Fun fact: Restarting my IT Journey after 9 years
-
+This is my capstone Project on Bike-ride-share, which I did during my project.
 <!---
 Palakkapoor06/Palakkapoor06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
